@@ -16,11 +16,7 @@ export default function Navbar() {
           <a href="#cv">CV</a>
           <a href="#contact">Contact</a>
         </div>
-        <div className="nav-status">
-          <div className="status-badge">
-            <span className="pulse"></span> Disponible · Cotonou
-          </div>
-        </div>
+        <div className="nav-status"></div>
         <button className="ham" onClick={() => setMenuOpen(true)} aria-label="Ouvrir le menu">
           <span></span><span></span><span></span>
         </button>
