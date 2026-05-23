@@ -37,7 +37,7 @@ export default function Hero() {
           <svg id="welcome-svg" viewBox="0 0 720 130" xmlns="http://www.w3.org/2000/svg" aria-label="Welcome.">
             <text className="svg-letter do-fill"
               x="0" y="105"
-              fontFamily="Syne, system-ui, sans-serif"
+              fontFamily="Space Grotesk, system-ui, sans-serif"
               fontWeight="800" fontSize="78" letterSpacing="-2"
             >Welcome.</text>
           </svg>

@@ -17,7 +17,7 @@
   padding: 28px;
 }
 .form-card h3 {
-  font-family: 'Syne', sans-serif;
+  font-family: 'Space Grotesk', sans-serif;
   font-weight: 700;
   font-size: 20px;
   margin-bottom: 8px;
@@ -34,7 +34,7 @@
   border: 1px solid rgba(255, 255, 255, 0.12);
   border-radius: 10px;
   font-size: 14px;
-  font-family: 'DM Sans', sans-serif;
+  font-family: 'Plus Jakarta Sans', sans-serif;
   color: #fff;
   outline: none;
   transition: border-color .2s;
@@ -70,7 +70,7 @@
   font-size: 14px;
   font-weight: 500;
   cursor: pointer;
-  font-family: 'DM Sans', sans-serif;
+  font-family: 'Plus Jakarta Sans', sans-serif;
   transition: box-shadow .2s, transform .2s;
   margin-top: 4px;
 }

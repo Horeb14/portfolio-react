@@ -8,14 +8,15 @@
   --muted: rgba(255, 255, 255, 0.45);
   --accent: #6c63ff;
   --accent-glow: rgba(108, 99, 255, 0.35);
-  --sans: 'DM Sans', system-ui, sans-serif;
-  --display: 'Syne', system-ui, sans-serif;
+  --sans: 'Plus Jakarta Sans', system-ui, sans-serif;
+  --display: 'Space Grotesk', system-ui, sans-serif;
+  --mono: 'DM Mono', monospace;
 }
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
 html { scroll-behavior: smooth; }
 body {
-  font-family: 'DM Sans', system-ui, sans-serif;
+  font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
   background: #fff;
   color: #0a001b;
   overflow-x: hidden;
@@ -46,7 +47,7 @@ body::before {
   margin-bottom: 10px;
 }
 .sec-title {
-  font-family: 'Syne', sans-serif;
+  font-family: 'Space Grotesk', sans-serif;
   font-size: clamp(28px, 4vw, 48px);
   font-weight: 800;
   letter-spacing: -1px;

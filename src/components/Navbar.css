@@ -12,7 +12,7 @@ nav {
 }
 
 .nav-logo {
-  font-family: 'JetBrains Mono', monospace;
+  font-family: 'DM Mono', monospace;
   font-size: 14px;
   font-weight: 500;
   color: #fff;
@@ -29,7 +29,7 @@ nav {
   color: #0a001b;
   display: grid;
   place-items: center;
-  font-family: 'Syne', sans-serif;
+  font-family: 'Space Grotesk', sans-serif;
   font-style: italic;
   font-size: 16px;
   font-weight: 800;
@@ -52,7 +52,7 @@ nav {
   border-radius: 999px;
   color: rgba(255, 255, 255, 0.6);
   text-decoration: none;
-  font-family: 'JetBrains Mono', monospace;
+  font-family: 'DM Mono', monospace;
   transition: background .2s, color .2s;
 }
 .nav-pill a:hover { background: rgba(255, 255, 255, 0.1); color: #fff; }
@@ -64,7 +64,7 @@ nav {
   display: inline-flex;
   align-items: center;
   gap: 8px;
-  font-family: 'JetBrains Mono', monospace;
+  font-family: 'DM Mono', monospace;
   font-size: 11.5px;
   color: rgba(255, 255, 255, 0.7);
   padding: 8px 14px;
@@ -112,7 +112,7 @@ nav {
 }
 .mob-menu.open { display: flex; }
 .mob-menu a {
-  font-family: 'Syne', sans-serif;
+  font-family: 'Space Grotesk', sans-serif;
   font-size: 28px;
   font-weight: 700;
   color: #fff;
