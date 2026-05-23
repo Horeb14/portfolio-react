@@ -170,7 +170,8 @@
 }
 
 @media (max-width: 1200px) {
-  .hero-inner { flex-direction: column-reverse; gap: 0; padding-bottom: 0; }
+  .hero-inner { flex-direction: column; gap: 0; padding-bottom: 0; }
+  .hero-image { margin-top: 28px; }
   .hero-photo-wrap { width: 280px; height: 320px; }
 }
 
