@@ -9,10 +9,7 @@ export default function Navbar() {
   return (
     <>
       <nav id="nav">
-        <div className="nav-logo">
-          <div className="nav-glyph">H</div>
-          <span><strong>KOUGBLENOU</strong> <span style={{ color: 'rgba(255,255,255,0.45)' }}>Horeb Sourou</span></span>
-        </div>
+        <div className="nav-logo"></div>
         <div className="nav-pill">
           <a href="#about">À propos</a>
           <a href="#projects">Projets</a>

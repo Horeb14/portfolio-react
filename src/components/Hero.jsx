@@ -51,6 +51,9 @@ export default function Hero() {
           <div className="hero-photo-wrap">
             <img src="/photos/photo_portfolio_1.jpg" alt="KOUGBLENOU Horeb Sourou" className="hero-photo" />
           </div>
+          <div className="hero-name">
+            <strong>KOUGBLENOU</strong> <span>Horeb Sourou</span>
+          </div>
         </div>
       </div>
     </div>

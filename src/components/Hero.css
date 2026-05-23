@@ -157,6 +157,18 @@
   display: block;
 }
 
+.hero-name {
+  text-align: center;
+  margin-top: 14px;
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.7);
+  letter-spacing: 0.04em;
+}
+.hero-name strong {
+  color: #fff;
+  font-weight: 700;
+}
+
 @media (max-width: 1200px) {
   .hero-inner { flex-direction: column-reverse; gap: 0; padding-bottom: 0; }
   .hero-photo-wrap { width: 280px; height: 320px; }
