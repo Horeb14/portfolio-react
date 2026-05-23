@@ -59,7 +59,7 @@
 
 @media (max-width: 768px) {
   .about-grid { display: flex; flex-direction: column; gap: 32px; }
-  .about-visual { order: -1; height: 420px; width: 100%; }
+  .about-visual { display: none; }
   .about-stats { grid-template-columns: 1fr 1fr; }
 }
 
