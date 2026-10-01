@@ -9,7 +9,7 @@ export default function About() {
             <div className="sec-label r">À propos</div>
             <h2 className="sec-title r d1">Passion.</h2>
             <p className="about-text r d2">
-              Je suis <strong>KOUGBLENOU Horeb Sourou</strong>, étudiant en Informatique, passionné par le développement
+              Je suis <strong>KOUGBLENOU Horeb Sourou</strong>, diplômé en Licence Professionnelle Informatique de Gestion (IUT de Parakou, mention très bien), passionné par le développement
               d'applications modernes et les interfaces bien pensées. Je travaille principalement avec React, Flutter et Figma
               pour concevoir des solutions web et mobiles à la fois performantes, intuitives et adaptées aux besoins réels.
               <br /><br />

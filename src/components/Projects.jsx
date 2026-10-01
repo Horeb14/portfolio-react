@@ -46,6 +46,15 @@ const PROJECTS = [
     desc: 'Application de gestion commerciale développée avec React en frontend et Django en backend, permettant de gérer produits, clients et transactions.',
     featured: false,
   },
+  {
+    id: 6,
+    title: 'VakponTour',
+    img: '/photos/vakpontour.png',
+    tags: ['HTML', 'CSS', 'JavaScript', 'Supabase'],
+    url: 'https://vakpon-tour.vercel.app/',
+    desc: 'Site d\'une agence de voyages qui fait découvrir le Sud du Bénin, avec catalogue de circuits, devis en ligne et contact WhatsApp.',
+    featured: false,
+  },
 ]
 
 export default function Projects() {
